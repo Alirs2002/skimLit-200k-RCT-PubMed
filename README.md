@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alirs2002
 - 👀 I’m interested in python
-- 🌱 I’m currently learning Machine learning And Deep learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine learning And Deep learning mathods
 - 📫 How to reach me Email:Aliroohiserajy@gmail.com
 
 <!---
